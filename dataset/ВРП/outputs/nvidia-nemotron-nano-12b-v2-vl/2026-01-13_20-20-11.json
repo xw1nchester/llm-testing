@@ -1,0 +1,3565 @@
+[
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2016,
+    "value": 25995587.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2017,
+    "value": 27915455.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2018,
+    "value": 31191756.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2019,
+    "value": 33139758.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2020,
+    "value": 34167817.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2021,
+    "value": 41592339.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2022,
+    "value": 46522155.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2023,
+    "value": 54101687.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2016,
+    "value": 778027.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2017,
+    "value": 837306.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2018,
+    "value": 911597.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2019,
+    "value": 955329.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2020,
+    "value": 997330.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2021,
+    "value": 1359965.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2022,
+    "value": 1282187.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2023,
+    "value": 1341408.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2016,
+    "value": 316489.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2017,
+    "value": 341177.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2018,
+    "value": 367157.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2019,
+    "value": 399113.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2020,
+    "value": 414179.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2021,
+    "value": 482669.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2022,
+    "value": 547720.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2023,
+    "value": 627017.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2016,
+    "value": 431549.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2017,
+    "value": 449849.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2018,
+    "value": 480027.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2019,
+    "value": 535493.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2020,
+    "value": 553092.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2021,
+    "value": 730328.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2022,
+    "value": 779080.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2023,
+    "value": 893416.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2016,
+    "value": 228583.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2017,
+    "value": 231118.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2018,
+    "value": 247105.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2019,
+    "value": 266655.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2020,
+    "value": 282883.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2021,
+    "value": 338266.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2022,
+    "value": 366295.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2023,
+    "value": 398720.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2016,
+    "value": 15121534.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2017,
+    "value": 16538189.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2018,
+    "value": 18777726.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2019,
+    "value": 19797064.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2020,
+    "value": 20260717.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2021,
+    "value": 24265759.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2022,
+    "value": 27726392.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Москва",
+    "year": 2023,
+    "value": 32339001.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2016,
+    "value": 8399737.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2017,
+    "value": 8814880.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2018,
+    "value": 9865793.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2019,
+    "value": 10577620.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2020,
+    "value": 10742733.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2021,
+    "value": 16682107.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2022,
+    "value": 18927288.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2023,
+    "value": 19262161.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2016,
+    "value": 248140.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2017,
+    "value": 270802.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2018,
+    "value": 300977.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2019,
+    "value": 319050.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2020,
+    "value": 322803.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2021,
+    "value": 447564.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2022,
+    "value": 392693.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2023,
+    "value": 434291.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2016,
+    "value": 578649.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2017,
+    "value": 608574.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2018,
+    "value": 696242.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2019,
+    "value": 718138.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2020,
+    "value": 613266.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2021,
+    "value": 869995.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2022,
+    "value": 971635.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2023,
+    "value": 1049365.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2016,
+    "value": 713043.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2017,
+    "value": 759206.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2018,
+    "value": 865723.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2019,
+    "value": 889974.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2020,
+    "value": 781819.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2021,
+    "value": 1080494.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2022,
+    "value": 1189495.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2023,
+    "value": 1263045.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2016,
+    "value": 261772.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2017,
+    "value": 265790.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2018,
+    "value": 320405.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2019,
+    "value": 330999.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2020,
+    "value": 230674.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2021,
+    "value": 409388.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2022,
+    "value": 489207.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "в т.ч. Ненецкий авт. округ",
+    "year": 2023,
+    "value": 501455.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2016,
+    "value": 451271.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2017,
+    "value": 493415.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2018,
+    "value": 545317.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2019,
+    "value": 558975.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2020,
+    "value": 551144.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2021,
+    "value": 671106.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2022,
+    "value": 700287.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2023,
+    "value": 761589.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2016,
+    "value": 509931.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2017,
+    "value": 542663.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2018,
+    "value": 615647.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2019,
+    "value": 632759.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2020,
+    "value": 624437.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2021,
+    "value": 1026496.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2022,
+    "value": 1020858.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2023,
+    "value": 1081822.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2016,
+    "value": 417094.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2017,
+    "value": 446677.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2018,
+    "value": 493302.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2019,
+    "value": 520951.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2020,
+    "value": 549311.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2021,
+    "value": 683811.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2022,
+    "value": 733450.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2023,
+    "value": 785205.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2016,
+    "value": 953668.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2017,
+    "value": 1002543.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2018,
+    "value": 1147644.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2019,
+    "value": 1223679.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2020,
+    "value": 1238641.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2021,
+    "value": 1473287.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2022,
+    "value": 1660133.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленгинская область",
+    "year": 2023,
+    "value": 1915187.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2016,
+    "value": 467006.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2017,
+    "value": 479352.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2018,
+    "value": 521051.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2019,
+    "value": 616504.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2020,
+    "value": 798450.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2021,
+    "value": 1106607.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2022,
+    "value": 1152107.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2023,
+    "value": 1127497.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2016,
+    "value": 253056.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2017,
+    "value": 256165.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2018,
+    "value": 259255.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2019,
+    "value": 273808.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2020,
+    "value": 279689.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2021,
+    "value": 345664.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2022,
+    "value": 377578.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2023,
+    "value": 408968.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2016,
+    "value": 159206.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2017,
+    "value": 165858.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2018,
+    "value": 180730.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2019,
+    "value": 196625.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2020,
+    "value": 201756.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2021,
+    "value": 227739.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2022,
+    "value": 255842.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2023,
+    "value": 288750.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2016,
+    "value": 4099939.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2017,
+    "value": 4283036.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2018,
+    "value": 4785218.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2019,
+    "value": 5186129.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2020,
+    "value": 5332558.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2021,
+    "value": 9420445.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2022,
+    "value": 11173493.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Санкт-Петербург",
+    "year": 2023,
+    "value": 10908028.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2016,
+    "value": 5448896.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2017,
+    "value": 5833454.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2018,
+    "value": 6320333.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2019,
+    "value": 6611731.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2020,
+    "value": 6783875.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2021,
+    "value": 8131122.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2022,
+    "value": 9771228.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2023,
+    "value": 10993340.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2016,
+    "value": 101102.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2017,
+    "value": 109714.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2018,
+    "value": 119961.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2019,
+    "value": 131125.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2020,
+    "value": 142913.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2021,
+    "value": 171386.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2022,
+    "value": 191559.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2023,
+    "value": 223013.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2016,
+    "value": 69564.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2017,
+    "value": 80126.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2018,
+    "value": 86107.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2019,
+    "value": 88986.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2020,
+    "value": 94025.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2021,
+    "value": 102377.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2022,
+    "value": 119775.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2023,
+    "value": 166710.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2016,
+    "value": 58001.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2017,
+    "value": 65038.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2018,
+    "value": 73681.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2019,
+    "value": 79321.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2020,
+    "value": 82230.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2021,
+    "value": 91529.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2022,
+    "value": 107913.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2023,
+    "value": 122532.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2016,
+    "value": 148810.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2017,
+    "value": 152526.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2018,
+    "value": 161092.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2019,
+    "value": 173459.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2020,
+    "value": 179159.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2021,
+    "value": 197993.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2022,
+    "value": 221180.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2023,
+    "value": 266555.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия-Áлания",
+    "year": 2016,
+    "value": 148810.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия-Áлания",
+    "year": 2017,
+    "value": 152526.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия-Áлания",
+    "year": 2018,
+    "value": 161092.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия-Áлания",
+    "year": 2019,
+    "value": 173459.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия-Áлания",
+    "year": 2020,
+    "value": 179159.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2021,
+    "value": 197993.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2022,
+    "value": 221180.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северная Осетия-Áлания",
+    "year": 2023,
+    "value": 266555.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2016,
+    "value": 201634.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2017,
+    "value": 215975.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2018,
+    "value": 223853.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2019,
+    "value": 241643.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2020,
+    "value": 251873.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2021,
+    "value": 278784.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2022,
+    "value": 314434.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2023,
+    "value": 397223.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2016,
+    "value": 712594.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2017,
+    "value": 735609.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2018,
+    "value": 784045.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2019,
+    "value": 829223.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2020,
+    "value": 846890.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2021,
+    "value": 1037863.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2022,
+    "value": 1177815.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2023,
+    "value": 1340782.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2016,
+    "value": 617587.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2017,
+    "value": 639513.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2018,
+    "value": 676060.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2019,
+    "value": 713723.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2020,
+    "value": 740798.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2021,
+    "value": 802523.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2022,
+    "value": 876956.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2023,
+    "value": 1034705.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2016,
+    "value": 58141.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2017,
+    "value": 60855.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2018,
+    "value": 67468.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2019,
+    "value": 73791.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2020,
+    "value": 70857.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2021,
+    "value": 71831.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2022,
+    "value": 83872.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2023,
+    "value": 95319.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2016,
+    "value": 78521.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2017,
+    "value": 82765.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2018,
+    "value": 85737.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2019,
+    "value": 91430.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2020,
+    "value": 95297.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2021,
+    "value": 108591.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2022,
+    "value": 123939.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2023,
+    "value": 143310.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2016,
+    "value": 152970.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2017,
+    "value": 155221.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2018,
+    "value": 161577.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2019,
+    "value": 171544.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2020,
+    "value": 180077.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2021,
+    "value": 212776.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2022,
+    "value": 246552.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2023,
+    "value": 291100.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2016,
+    "value": 368485.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2017,
+    "value": 442608.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2018,
+    "value": 579210.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2019,
+    "value": 601811.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2020,
+    "value": 527290.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2021,
+    "value": 663770.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2022,
+    "value": 763880.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2023,
+    "value": 777718.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2016,
+    "value": 825586.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2017,
+    "value": 850263.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2018,
+    "value": 927811.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2019,
+    "value": 963214.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2020,
+    "value": 977707.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2021,
+    "value": 1067376.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2022,
+    "value": 1208235.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2023,
+    "value": 1384980.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2016,
+    "value": 1375107.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2017,
+    "value": 1441723.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2018,
+    "value": 1548222.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2019,
+    "value": 1636017.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2020,
+    "value": 1714576.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2021,
+    "value": 2042953.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2022,
+    "value": 2317782.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2023,
+    "value": 2693193.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2016,
+    "value": 89303.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2017,
+    "value": 101280.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2018,
+    "value": 121666.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2019,
+    "value": 137919.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2020,
+    "value": 142985.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2021,
+    "value": 187986.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2022,
+    "value": 228378.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г.Севастополь",
+    "year": 2023,
+    "value": 253191.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2016,
+    "value": 1970260.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2017,
+    "value": 2042468.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2018,
+    "value": 2159836.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2019,
+    "value": 2294816.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2020,
+    "value": 2364953.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2021,
+    "value": 2710364.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2022,
+    "value": 3044752.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2023,
+    "value": 3568997.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2016,
+    "value": 617587.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2017,
+    "value": 639513.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2018,
+    "value": 676060.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2019,
+    "value": 713723.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2020,
+    "value": 740798.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2021,
+    "value": 802523.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2022,
+    "value": 876956.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2023,
+    "value": 1034705.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2016,
+    "value": 58141.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2017,
+    "value": 60855.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2018,
+    "value": 67468.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2019,
+    "value": 73791.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2020,
+    "value": 70857.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2021,
+    "value": 71831.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2022,
+    "value": 83872.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2023,
+    "value": 95319.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2016,
+    "value": 368485.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2017,
+    "value": 442608.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2018,
+    "value": 579210.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2019,
+    "value": 601811.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2020,
+    "value": 527290.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2021,
+    "value": 663770.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2022,
+    "value": 763880.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2023,
+    "value": 777718.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2016,
+    "value": 825586.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2017,
+    "value": 850263.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2018,
+    "value": 927811.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2019,
+    "value": 963214.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2020,
+    "value": 977707.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2021,
+    "value": 1067376.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2022,
+    "value": 1208235.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2023,
+    "value": 1384980.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2016,
+    "value": 1375107.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2017,
+    "value": 1441723.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2018,
+    "value": 1548222.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2019,
+    "value": 1636017.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2020,
+    "value": 1714576.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2021,
+    "value": 2042953.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2022,
+    "value": 2317782.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2023,
+    "value": 2693193.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2016,
+    "value": 253056.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2017,
+    "value": 256165.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2018,
+    "value": 259255.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2019,
+    "value": 273808.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2020,
+    "value": 279689.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2021,
+    "value": 345664.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2022,
+    "value": 377578.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2023,
+    "value": 408968.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2016,
+    "value": 431549.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2017,
+    "value": 449849.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2018,
+    "value": 480027.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2019,
+    "value": 535493.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2020,
+    "value": 553092.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2021,
+    "value": 730328.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2022,
+    "value": 779080.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2023,
+    "value": 893416.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2016,
+    "value": 202100.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2017,
+    "value": 209985.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2018,
+    "value": 215589.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2019,
+    "value": 236825.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2020,
+    "value": 240188.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2021,
+    "value": 272175.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2022,
+    "value": 336231.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2023,
+    "value": 380466.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2016,
+    "value": 2109619.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2017,
+    "value": 2259526.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2018,
+    "value": 2423689.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2019,
+    "value": 2535215.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2020,
+    "value": 2512654.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2021,
+    "value": 3083947.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2022,
+    "value": 3443588.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2023,
+    "value": 4128119.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2016,
+    "value": 1074794.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2017,
+    "value": 1179564.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2018,
+    "value": 1301631.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2019,
+    "value": 1332895.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2020,
+    "value": 1358350.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2021,
+    "value": 1628844.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2022,
+    "value": 1927143.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2023,
+    "value": 2216436.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2016,
+    "value": 967530.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2017,
+    "value": 1083409.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2018,
+    "value": 1316650.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2019,
+    "value": 1234753.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2020,
+    "value": 1171029.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2021,
+    "value": 1573449.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2022,
+    "value": 1722910.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2023,
+    "value": 1938291.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2016,
+    "value": 6975354.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2017,
+    "value": 7653768.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2018,
+    "value": 8701658.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2019,
+    "value": 9090340.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2020,
+    "value": 9021766.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2021,
+    "value": 11417377.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2022,
+    "value": 12972641.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2023,
+    "value": 13962117.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2016,
+    "value": 47434.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2017,
+    "value": 48415.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2018,
+    "value": 54069.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2019,
+    "value": 57064.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2020,
+    "value": 62850.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2021,
+    "value": 74513.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2022,
+    "value": 89613.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2023,
+    "value": 108336.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2016,
+    "value": 700848.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2017,
+    "value": 728946.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2018,
+    "value": 773838.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2019,
+    "value": 809822.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2020,
+    "value": 856515.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2021,
+    "value": 1009797.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2022,
+    "value": 1176232.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Когдалинская область",
+    "year": 2023,
+    "value": 1345119.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2016,
+    "value": 700848.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2017,
+    "value": 728946.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2018,
+    "value": 773838.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2019,
+    "value": 809822.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2020,
+    "value": 856515.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2021,
+    "value": 1009797.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2022,
+    "value": 1176232.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2023,
+    "value": 1345119.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2016,
+    "value": 47434.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2017,
+    "value": 48415.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2018,
+    "value": 54069.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2019,
+    "value": 57064.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2020,
+    "value": 62850.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2021,
+    "value": 74513.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2022,
+    "value": 89613.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2023,
+    "value": 108336.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2016,
+    "value": 58001.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2017,
+    "value": 65038.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2018,
+    "value": 73681.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2019,
+    "value": 79321.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2020,
+    "value": 82230.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2021,
+    "value": 91529.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2022,
+    "value": 107913.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2023,
+    "value": 122532.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2016,
+    "value": 532401.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2017,
+    "value": 545303.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2018,
+    "value": 579740.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2019,
+    "value": 628146.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2020,
+    "value": 664129.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2021,
+    "value": 869672.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2022,
+    "value": 929614.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2023,
+    "value": 1024355.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2016,
+    "value": 1074794.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2017,
+    "value": 1179564.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2018,
+    "value": 1301631.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2019,
+    "value": 1332895.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2020,
+    "value": 1358350.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2021,
+    "value": 1628844.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2022,
+    "value": 1927143.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2023,
+    "value": 2216436.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2016,
+    "value": 279140.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2017,
+    "value": 306596.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2018,
+    "value": 339838.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2019,
+    "value": 369476.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2020,
+    "value": 422734.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2021,
+    "value": 516630.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2022,
+    "value": 561679.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2023,
+    "value": 718358.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2016,
+    "value": 224091.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2017,
+    "value": 228167.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2018,
+    "value": 263151.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2019,
+    "value": 279337.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2020,
+    "value": 296429.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2021,
+    "value": 351233.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2022,
+    "value": 357461.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2023,
+    "value": 440147.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2016,
+    "value": 713043.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2017,
+    "value": 759206.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2018,
+    "value": 865723.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2019,
+    "value": 889974.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2020,
+    "value": 781819.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2021,
+    "value": 1080494.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2022,
+    "value": 1189495.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2023,
+    "value": 1263045.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2016,
+    "value": 451271.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2017,
+    "value": 493415.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2018,
+    "value": 545317.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2019,
+    "value": 558975.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2020,
+    "value": 551144.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2021,
+    "value": 671106.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2022,
+    "value": 700287.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2023,
+    "value": 761589.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2019,
+    "value": 535493.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2020,
+    "value": 553092.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2021,
+    "value": 730328.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2022,
+    "value": 779080.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2023,
+    "value": 893416.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2016,
+    "value": 47434.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2017,
+    "value": 48415.2,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2018,
+    "value": 54069.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2019,
+    "value": 57064.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2020,
+    "value": 62850.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2021,
+    "value": 74513.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2022,
+    "value": 89613.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2023,
+    "value": 108336.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2016,
+    "value": 617587.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2017,
+    "value": 639513.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2018,
+    "value": 676060.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2019,
+    "value": 713723.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2020,
+    "value": 740798.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2021,
+    "value": 802523.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2022,
+    "value": 876956.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2023,
+    "value": 1034705.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2016,
+    "value": 713043.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2017,
+    "value": 759206.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2018,
+    "value": 865723.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2019,
+    "value": 889974.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2020,
+    "value": 781819.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2021,
+    "value": 1080494.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2022,
+    "value": 1189495.0,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2023,
+    "value": 1263045.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2016,
+    "value": 451271.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2017,
+    "value": 493415.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2018,
+    "value": 545317.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2019,
+    "value": 558975.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2020,
+    "value": 551144.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2021,
+    "value": 671106.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2022,
+    "value": 700287.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без Ненецкого авт.округа",
+    "year": 2023,
+    "value": 761589.6,
+    "month": null,
+    "day": null
+  }
+]
