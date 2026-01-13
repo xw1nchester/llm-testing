@@ -1,0 +1,1633 @@
+[
+  {
+    "subject": "Российская Федерация",
+    "year": 2025,
+    "month": 7,
+    "value": 1852391,
+    "day": null
+  },
+  {
+    "subject": "Российская Федерация",
+    "year": 2024,
+    "month": 7,
+    "value": 2083214,
+    "day": null
+  },
+  {
+    "subject": "Российская Федерация",
+    "year": 2025,
+    "month": 6,
+    "value": 1843853,
+    "day": null
+  },
+  {
+    "subject": "Российская Федерация",
+    "year": null,
+    "month": null,
+    "value": 1843853,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 267745,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2024,
+    "month": 7,
+    "value": 218393,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2025,
+    "month": 6,
+    "value": 256099,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": null,
+    "month": null,
+    "value": 256099,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2025,
+    "month": 7,
+    "value": 6222,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2024,
+    "month": 7,
+    "value": 7560,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2025,
+    "month": 6,
+    "value": 5901,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2025,
+    "month": 7,
+    "value": 10896,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2024,
+    "month": 7,
+    "value": 13005,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2025,
+    "month": 6,
+    "value": 11935,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2025,
+    "month": 7,
+    "value": 8353,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2024,
+    "month": 7,
+    "value": 13639,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2025,
+    "month": 6,
+    "value": 9280,
+    "day": null
+  },
+  {
+    "subject": "в том числе: Ненецкий авт. округ",
+    "year": 2025,
+    "month": 7,
+    "value": 697,
+    "day": null
+  },
+  {
+    "subject": "в том числе: Ненецкий авт. округ",
+    "year": 2024,
+    "month": 7,
+    "value": 1028,
+    "day": null
+  },
+  {
+    "subject": "в том числе: Ненецкий авт. округ",
+    "year": 2025,
+    "month": 6,
+    "value": 915,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без авт. округа",
+    "year": 2025,
+    "month": 7,
+    "value": 7656,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без авт. округа",
+    "year": 2024,
+    "month": 7,
+    "value": 12611,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без авт. округа",
+    "year": 2025,
+    "month": 6,
+    "value": 8365,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2025,
+    "month": 7,
+    "value": 17469,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2024,
+    "month": 7,
+    "value": 16903,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2025,
+    "month": 6,
+    "value": 17370,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2025,
+    "month": 7,
+    "value": 13475,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2024,
+    "month": 7,
+    "value": 14402,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2025,
+    "month": 6,
+    "value": 12720,
+    "day": null
+  },
+  {
+    "subject": "Ленинградская область",
+    "year": 2025,
+    "month": 7,
+    "value": 140594,
+    "day": null
+  },
+  {
+    "subject": "Ленинградская область",
+    "year": 2024,
+    "month": 7,
+    "value": 64832,
+    "day": null
+  },
+  {
+    "subject": "Ленинградская область",
+    "year": 2025,
+    "month": 6,
+    "value": 131181,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2025,
+    "month": 7,
+    "value": 12265,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2024,
+    "month": 7,
+    "value": 22049,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2025,
+    "month": 6,
+    "value": 8661,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2025,
+    "month": 7,
+    "value": 5502,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2024,
+    "month": 7,
+    "value": 5832,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2025,
+    "month": 6,
+    "value": 4918,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2025,
+    "month": 7,
+    "value": 7846,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2024,
+    "month": 7,
+    "value": 10034,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2025,
+    "month": 6,
+    "value": 8042,
+    "day": null
+  },
+  {
+    "subject": "г. Санкт-Петербург",
+    "year": 2025,
+    "month": 7,
+    "value": 45123,
+    "day": null
+  },
+  {
+    "subject": "г. Санкт-Петербург",
+    "year": 2024,
+    "month": 7,
+    "value": 50137,
+    "day": null
+  },
+  {
+    "subject": "г. Санкт-Петербург",
+    "year": 2025,
+    "month": 6,
+    "value": 46091,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 182088,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2024,
+    "month": 7,
+    "value": 224055,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2025,
+    "month": 6,
+    "value": 184867,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2025,
+    "month": 7,
+    "value": 4715,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2024,
+    "month": 7,
+    "value": 5004,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2025,
+    "month": 6,
+    "value": 5353,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2025,
+    "month": 7,
+    "value": 983,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2024,
+    "month": 7,
+    "value": 1637,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2025,
+    "month": 6,
+    "value": 1737,
+    "day": null
+  },
+  {
+    "subject": "Республика Крым",
+    "year": 2025,
+    "month": 7,
+    "value": 18184,
+    "day": null
+  },
+  {
+    "subject": "Республика Крым",
+    "year": 2024,
+    "month": 7,
+    "value": 20432,
+    "day": null
+  },
+  {
+    "subject": "Республика Крым",
+    "year": 2025,
+    "month": 6,
+    "value": 20300,
+    "day": null
+  },
+  {
+    "subject": "Краснодарский край",
+    "year": 2025,
+    "month": 7,
+    "value": 80783,
+    "day": null
+  },
+  {
+    "subject": "Краснодарский край",
+    "year": 2024,
+    "month": 7,
+    "value": 96325,
+    "day": null
+  },
+  {
+    "subject": "Краснодарский край",
+    "year": 2025,
+    "month": 6,
+    "value": 79835,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2025,
+    "month": 7,
+    "value": 6029,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2024,
+    "month": 7,
+    "value": 10272,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2025,
+    "month": 6,
+    "value": 6691,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2025,
+    "month": 7,
+    "value": 23711,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2024,
+    "month": 7,
+    "value": 29391,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2025,
+    "month": 6,
+    "value": 24155,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2025,
+    "month": 7,
+    "value": 43012,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2024,
+    "month": 7,
+    "value": 57188,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2025,
+    "month": 6,
+    "value": 41331,
+    "day": null
+  },
+  {
+    "subject": "г. Севастополь",
+    "year": 2025,
+    "month": 7,
+    "value": 4671,
+    "day": null
+  },
+  {
+    "subject": "г. Севастополь",
+    "year": 2024,
+    "month": 7,
+    "value": 3806,
+    "day": null
+  },
+  {
+    "subject": "г. Севастополь",
+    "year": 2025,
+    "month": 6,
+    "value": 5465,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 44669,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2024,
+    "month": 7,
+    "value": 52054,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2025,
+    "month": 6,
+    "value": 44815,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2025,
+    "month": 7,
+    "value": 5057,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2024,
+    "month": 7,
+    "value": 5104,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2025,
+    "month": 6,
+    "value": 5579,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2025,
+    "month": 7,
+    "value": 279,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2024,
+    "month": 7,
+    "value": 261,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2025,
+    "month": 6,
+    "value": 313,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 7318,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2024,
+    "month": 7,
+    "value": 5622,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2025,
+    "month": 6,
+    "value": 6758,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 4275,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2024,
+    "month": 7,
+    "value": 2418,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2025,
+    "month": 6,
+    "value": 4338,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия - Алания",
+    "year": 2025,
+    "month": 7,
+    "value": 1246,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия - Алания",
+    "year": 2024,
+    "month": 7,
+    "value": 1435,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия - Алания",
+    "year": 2025,
+    "month": 6,
+    "value": 1365,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 2349,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2024,
+    "month": 7,
+    "value": 2050,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2025,
+    "month": 6,
+    "value": 2223,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2025,
+    "month": 7,
+    "value": 24145,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2024,
+    "month": 7,
+    "value": 35164,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2025,
+    "month": 6,
+    "value": 24239,
+    "day": null
+  },
+  {
+    "subject": "Приволжский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 330306,
+    "day": null
+  },
+  {
+    "subject": "Приволжский федеральный округ",
+    "year": 2024,
+    "month": 7,
+    "value": 420585,
+    "day": null
+  },
+  {
+    "subject": "Приволжский федеральный округ",
+    "year": 2025,
+    "month": 6,
+    "value": 327221,
+    "day": null
+  },
+  {
+    "subject": "Республика Башкортостан",
+    "year": 2025,
+    "month": 7,
+    "value": 35012,
+    "day": null
+  },
+  {
+    "subject": "Республика Башкортостан",
+    "year": 2024,
+    "month": 7,
+    "value": 55450,
+    "day": null
+  },
+  {
+    "subject": "Республика Башкортостан",
+    "year": 2025,
+    "month": 6,
+    "value": 37600,
+    "day": null
+  },
+  {
+    "subject": "Республика Марий Эл",
+    "year": 2025,
+    "month": 7,
+    "value": 7479,
+    "day": null
+  },
+  {
+    "subject": "Республика Марий Эл",
+    "year": 2024,
+    "month": 7,
+    "value": 8827,
+    "day": null
+  },
+  {
+    "subject": "Республика Марий Эл",
+    "year": 2025,
+    "month": 6,
+    "value": 7034,
+    "day": null
+  },
+  {
+    "subject": "Республика Мордовия",
+    "year": 2025,
+    "month": 7,
+    "value": 7708,
+    "day": null
+  },
+  {
+    "subject": "Республика Мордовия",
+    "year": 2024,
+    "month": 7,
+    "value": 9196,
+    "day": null
+  },
+  {
+    "subject": "Республика Мордовия",
+    "year": 2025,
+    "month": 6,
+    "value": 7563,
+    "day": null
+  },
+  {
+    "subject": "Республика Татарстан",
+    "year": 2025,
+    "month": 7,
+    "value": 53160,
+    "day": null
+  },
+  {
+    "subject": "Республика Татарстан",
+    "year": 2024,
+    "month": 7,
+    "value": 53246,
+    "day": null
+  },
+  {
+    "subject": "Республика Татарстан",
+    "year": 2025,
+    "month": 6,
+    "value": 44292,
+    "day": null
+  },
+  {
+    "subject": "Удмуртская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 15743,
+    "day": null
+  },
+  {
+    "subject": "Удмуртская Республика",
+    "year": 2024,
+    "month": 7,
+    "value": 24545,
+    "day": null
+  },
+  {
+    "subject": "Удмуртская Республика",
+    "year": 2025,
+    "month": 6,
+    "value": 13777,
+    "day": null
+  },
+  {
+    "subject": "Чувашская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 8923,
+    "day": null
+  },
+  {
+    "subject": "Чувашская Республика",
+    "year": 2024,
+    "month": 7,
+    "value": 10814,
+    "day": null
+  },
+  {
+    "subject": "Чувашская Республика",
+    "year": 2025,
+    "month": 6,
+    "value": 9262,
+    "day": null
+  },
+  {
+    "subject": "Пермский край",
+    "year": 2025,
+    "month": 7,
+    "value": 33213,
+    "day": null
+  },
+  {
+    "subject": "Пермский край",
+    "year": 2024,
+    "month": 7,
+    "value": 32972,
+    "day": null
+  },
+  {
+    "subject": "Пермский край",
+    "year": 2025,
+    "month": 6,
+    "value": 34298,
+    "day": null
+  },
+  {
+    "subject": "Кировеская область",
+    "year": 2025,
+    "month": 7,
+    "value": 23819,
+    "day": null
+  },
+  {
+    "subject": "Кировеская область",
+    "year": 2024,
+    "month": 7,
+    "value": 21553,
+    "day": null
+  },
+  {
+    "subject": "Кировеская область",
+    "year": 2025,
+    "month": 6,
+    "value": 21604,
+    "day": null
+  },
+  {
+    "subject": "Нижегородская область",
+    "year": 2025,
+    "month": 7,
+    "value": 34142,
+    "day": null
+  },
+  {
+    "subject": "Нижегородская область",
+    "year": 2024,
+    "month": 7,
+    "value": 70743,
+    "day": null
+  },
+  {
+    "subject": "Нижегородская область",
+    "year": 2025,
+    "month": 6,
+    "value": 34702,
+    "day": null
+  },
+  {
+    "subject": "Оренбургская область",
+    "year": 2025,
+    "month": 7,
+    "value": 19394,
+    "day": null
+  },
+  {
+    "subject": "Оренбургская область",
+    "year": 2024,
+    "month": 7,
+    "value": 25540,
+    "day": null
+  },
+  {
+    "subject": "Оренбургская область",
+    "year": 2025,
+    "month": 6,
+    "value": 19755,
+    "day": null
+  },
+  {
+    "subject": "Пензенская область",
+    "year": 2025,
+    "month": 7,
+    "value": 11786,
+    "day": null
+  },
+  {
+    "subject": "Пензенская область",
+    "year": 2024,
+    "month": 7,
+    "value": 10382,
+    "day": null
+  },
+  {
+    "subject": "Пензенская область",
+    "year": 2025,
+    "month": 6,
+    "value": 10900,
+    "day": null
+  },
+  {
+    "subject": "Самарская область",
+    "year": 2025,
+    "month": 7,
+    "value": 43617,
+    "day": null
+  },
+  {
+    "subject": "Самарская область",
+    "year": 2024,
+    "month": 7,
+    "value": 50575,
+    "day": null
+  },
+  {
+    "subject": "Самарская область",
+    "year": 2025,
+    "month": 6,
+    "value": 48037,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2025,
+    "month": 7,
+    "value": 23249,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2024,
+    "month": 7,
+    "value": 30952,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2025,
+    "month": 6,
+    "value": 23724,
+    "day": null
+  },
+  {
+    "subject": "Ульяновская область",
+    "year": 2025,
+    "month": 7,
+    "value": 13061,
+    "day": null
+  },
+  {
+    "subject": "Ульяновская область",
+    "year": 2024,
+    "month": 7,
+    "value": 15790,
+    "day": null
+  },
+  {
+    "subject": "Ульяновская область",
+    "year": 2025,
+    "month": 6,
+    "value": 14673,
+    "day": null
+  },
+  {
+    "subject": "Уральский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 169134,
+    "day": null
+  },
+  {
+    "subject": "Уральский федеральный округ",
+    "year": 2024,
+    "month": 7,
+    "value": 193584,
+    "day": null
+  },
+  {
+    "subject": "Уральский федеральный округ",
+    "year": 2025,
+    "month": 6,
+    "value": 171827,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2025,
+    "month": 7,
+    "value": 6998,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2024,
+    "month": 7,
+    "value": 8534,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2025,
+    "month": 6,
+    "value": 7797,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2025,
+    "month": 7,
+    "value": 52503,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2024,
+    "month": 7,
+    "value": 64668,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2025,
+    "month": 6,
+    "value": 51820,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2025,
+    "month": 7,
+    "value": 72353,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2024,
+    "month": 7,
+    "value": 70429,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2025,
+    "month": 6,
+    "value": 75611,
+    "day": null
+  },
+  {
+    "subject": "в том числе: Ханты-Мансийский авт. округ - Югра",
+    "year": 2025,
+    "month": 7,
+    "value": 22098,
+    "day": null
+  },
+  {
+    "subject": "в том числе: Ханты-Мансийский авт. округ - Югра",
+    "year": 2024,
+    "month": 7,
+    "value": 22521,
+    "day": null
+  },
+  {
+    "subject": "в том числе: Ханты-Мансийский авт. округ - Югра",
+    "year": 2025,
+    "month": 6,
+    "value": 23031,
+    "day": null
+  },
+  {
+    "subject": "Ямало-Ненецкий авт. округ",
+    "year": 2025,
+    "month": 7,
+    "value": 20646,
+    "day": null
+  },
+  {
+    "subject": "Ямало-Ненецкий авт. округ",
+    "year": 2024,
+    "month": 7,
+    "value": 16213,
+    "day": null
+  },
+  {
+    "subject": "Ямало-Ненецкий авт. округ",
+    "year": 2025,
+    "month": 6,
+    "value": 21670,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область без авт. округов",
+    "year": 2025,
+    "month": 7,
+    "value": 29609,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область без авт. округов",
+    "year": 2024,
+    "month": 7,
+    "value": 31695,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область без авт. округов",
+    "year": 2025,
+    "month": 6,
+    "value": 30910,
+    "day": null
+  },
+  {
+    "subject": "Челябинская область",
+    "year": 2025,
+    "month": 7,
+    "value": 37280,
+    "day": null
+  },
+  {
+    "subject": "Челябинская область",
+    "year": 2024,
+    "month": 7,
+    "value": 49953,
+    "day": null
+  },
+  {
+    "subject": "Челябинская область",
+    "year": 2025,
+    "month": 6,
+    "value": 36599,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 208658,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2024,
+    "month": 7,
+    "value": 248040,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2025,
+    "month": 6,
+    "value": 216833,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2025,
+    "month": 7,
+    "value": 1436,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2024,
+    "month": 7,
+    "value": 4181,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2025,
+    "month": 6,
+    "value": 1265,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2025,
+    "month": 7,
+    "value": 1202,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2024,
+    "month": 7,
+    "value": 1323,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2025,
+    "month": 6,
+    "value": 1144,
+    "day": null
+  },
+  {
+    "subject": "Республика Хакасия",
+    "year": 2025,
+    "month": 7,
+    "value": 4812,
+    "day": null
+  },
+  {
+    "subject": "Республика Хакасия",
+    "year": 2024,
+    "month": 7,
+    "value": 5928,
+    "day": null
+  },
+  {
+    "subject": "Республика Хакасия",
+    "year": 2025,
+    "month": 6,
+    "value": 4777,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2025,
+    "month": 7,
+    "value": 24092,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2024,
+    "month": 7,
+    "value": 28226,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2025,
+    "month": 6,
+    "value": 25592,
+    "day": null
+  },
+  {
+    "subject": "Красноярский край",
+    "year": 2025,
+    "month": 7,
+    "value": 41399,
+    "day": null
+  },
+  {
+    "subject": "Красноярский край",
+    "year": 2024,
+    "month": 7,
+    "value": 53070,
+    "day": null
+  },
+  {
+    "subject": "Красноярский край",
+    "year": 2025,
+    "month": 6,
+    "value": 45548,
+    "day": null
+  },
+  {
+    "subject": "Иркутская область",
+    "year": 2025,
+    "month": 7,
+    "value": 29021,
+    "day": null
+  },
+  {
+    "subject": "Иркутская область",
+    "year": 2024,
+    "month": 7,
+    "value": 36432,
+    "day": null
+  },
+  {
+    "subject": "Иркутская область",
+    "year": 2025,
+    "month": 6,
+    "value": 31708,
+    "day": null
+  },
+  {
+    "subject": "Кемеровская область",
+    "year": 2025,
+    "month": 7,
+    "value": 31251,
+    "day": null
+  },
+  {
+    "subject": "Кемеровская область",
+    "year": 2024,
+    "month": 7,
+    "value": 44388,
+    "day": null
+  },
+  {
+    "subject": "Кемеровская область",
+    "year": 2025,
+    "month": 6,
+    "value": 32100,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2025,
+    "month": 7,
+    "value": 36833,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2024,
+    "month": 7,
+    "value": 45627,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2025,
+    "month": 6,
+    "value": 34987,
+    "day": null
+  },
+  {
+    "subject": "Омская область",
+    "year": 2025,
+    "month": 7,
+    "value": 29504,
+    "day": null
+  },
+  {
+    "subject": "Омская область",
+    "year": 2024,
+    "month": 7,
+    "value": 18029,
+    "day": null
+  },
+  {
+    "subject": "Омская область",
+    "year": 2025,
+    "month": 6,
+    "value": 30477,
+    "day": null
+  },
+  {
+    "subject": "Томская область",
+    "year": 2025,
+    "month": 7,
+    "value": 9108,
+    "day": null
+  },
+  {
+    "subject": "Томская область",
+    "year": 2024,
+    "month": 7,
+    "value": 10836,
+    "day": null
+  },
+  {
+    "subject": "Томская область",
+    "year": 2025,
+    "month": 6,
+    "value": 9235,
+    "day": null
+  },
+  {
+    "subject": "Дальневосточный федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 209752,
+    "day": null
+  },
+  {
+    "subject": "Дальневосточный федеральный округ",
+    "year": 2024,
+    "month": 7,
+    "value": 239106,
+    "day": null
+  },
+  {
+    "subject": "Дальневосточный федеральный округ",
+    "year": 2025,
+    "month": 6,
+    "value": 221304,
+    "day": null
+  },
+  {
+    "subject": "Республика Бурятия",
+    "year": 2025,
+    "month": 7,
+    "value": 13382,
+    "day": null
+  },
+  {
+    "subject": "Республика Бурятия",
+    "year": 2024,
+    "month": 7,
+    "value": 16003,
+    "day": null
+  },
+  {
+    "subject": "Республика Бурятия",
+    "year": 2025,
+    "month": 6,
+    "value": 13581,
+    "day": null
+  },
+  {
+    "subject": "Республика Саха (Якутия)",
+    "year": 2025,
+    "month": 7,
+    "value": 8816,
+    "day": null
+  },
+  {
+    "subject": "Республика Саха (Якутия)",
+    "year": 2024,
+    "month": 7,
+    "value": 10975,
+    "day": null
+  },
+  {
+    "subject": "Республика Саха (Якутия)",
+    "year": 2025,
+    "month": 6,
+    "value": 8233,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2025,
+    "month": 7,
+    "value": 10886,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2024,
+    "month": 7,
+    "value": 20047,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2025,
+    "month": 6,
+    "value": 12480,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2025,
+    "month": 7,
+    "value": 5534,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2024,
+    "month": 7,
+    "value": 7214,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2025,
+    "month": 6,
+    "value": 6928,
+    "day": null
+  },
+  {
+    "subject": "Приморский край",
+    "year": 2025,
+    "month": 7,
+    "value": 53563,
+    "day": null
+  },
+  {
+    "subject": "Приморский край",
+    "year": 2024,
+    "month": 7,
+    "value": 54789,
+    "day": null
+  },
+  {
+    "subject": "Приморский край",
+    "year": 2025,
+    "month": 6,
+    "value": 56827,
+    "day": null
+  },
+  {
+    "subject": "Хабаровский край",
+    "year": 2025,
+    "month": 7,
+    "value": 25236,
+    "day": null
+  },
+  {
+    "subject": "Хабаровский край",
+    "year": 2024,
+    "month": 7,
+    "value": 30361,
+    "day": null
+  },
+  {
+    "subject": "Хабаровский край",
+    "year": 2025,
+    "month": 6,
+    "value": 30291,
+    "day": null
+  },
+  {
+    "subject": "Амурская область",
+    "year": 2025,
+    "month": 7,
+    "value": 72537,
+    "day": null
+  },
+  {
+    "subject": "Амурская область",
+    "year": 2024,
+    "month": 7,
+    "value": 77986,
+    "day": null
+  },
+  {
+    "subject": "Амурская область",
+    "year": 2025,
+    "month": 6,
+    "value": 71185,
+    "day": null
+  },
+  {
+    "subject": "Магаданская область",
+    "year": 2025,
+    "month": 7,
+    "value": 2725,
+    "day": null
+  },
+  {
+    "subject": "Магаданская область",
+    "year": 2024,
+    "month": 7,
+    "value": 3893,
+    "day": null
+  },
+  {
+    "subject": "Магаданская область",
+    "year": 2025,
+    "month": 6,
+    "value": 2700,
+    "day": null
+  },
+  {
+    "subject": "Сахалинская область",
+    "year": 2025,
+    "month": 7,
+    "value": 9997,
+    "day": null
+  },
+  {
+    "subject": "Сахалинская область",
+    "year": 2024,
+    "month": 7,
+    "value": 10845,
+    "day": null
+  },
+  {
+    "subject": "Сахалинская область",
+    "year": 2025,
+    "month": 6,
+    "value": 10533,
+    "day": null
+  },
+  {
+    "subject": "Еврейская авт. область",
+    "year": 2025,
+    "month": 7,
+    "value": 5925,
+    "day": null
+  },
+  {
+    "subject": "Еврейская авт. область",
+    "year": 2024,
+    "month": 7,
+    "value": 5373,
+    "day": null
+  },
+  {
+    "subject": "Еврейская авт. область",
+    "year": 2025,
+    "month": 6,
+    "value": 7405,
+    "day": null
+  },
+  {
+    "subject": "Чукотский авт. округ",
+    "year": 2025,
+    "month": 7,
+    "value": 1151,
+    "day": null
+  },
+  {
+    "subject": "Чукотский авт. округ",
+    "year": 2024,
+    "month": 7,
+    "value": 1620,
+    "day": null
+  },
+  {
+    "subject": "Чукотский авт. округ",
+    "year": 2025,
+    "month": 6,
+    "value": 1141,
+    "day": null
+  }
+]
