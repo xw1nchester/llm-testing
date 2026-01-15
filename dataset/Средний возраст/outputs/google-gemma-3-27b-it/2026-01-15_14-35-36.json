@@ -1,0 +1,578 @@
+[
+  {
+    "subject": "Российская Федерация",
+    "year": 40.97,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 42.48,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 42.72,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 42.55,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 43.29,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Воронежская область",
+    "year": 42.99,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ивановская область",
+    "year": 43.4,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калужская область",
+    "year": 42.16,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Костромская область",
+    "year": 42.62,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курская область",
+    "year": 42.79,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Липецкая область",
+    "year": 42.64,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Московская область",
+    "year": 40.47,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 43.19,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Рязанская область",
+    "year": 43.79,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Смоленская область",
+    "year": 43.39,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тамбовская область",
+    "year": 44.69,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тверская область",
+    "year": 43.21,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тульская область",
+    "year": 44.47,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ярославская область",
+    "year": 42.38,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г. Москва",
+    "year": 42.88,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 42.15,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 42.91,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 40.97,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 42.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ненецкий автономный округ",
+    "year": 37.35,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без автономии",
+    "year": 42.31,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 41.3,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 41.14,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ленинградская область",
+    "year": 42.69,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 39.88,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 42.48,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 43.19,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г. Санкт-Петербург",
+    "year": 42.52,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 41.37,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 39.86,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 38.95,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Крым",
+    "year": 41.66,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Краснодарский край",
+    "year": 40.98,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 39.26,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 42.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 41.96,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "г. Севастополь",
+    "year": 41.17,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 35.99,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 34.35,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 31.18,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 37.5,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 38.48,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия – Алания",
+    "year": 39.46,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 29.76,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 40.37,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Приволжский федеральный округ",
+    "year": 41.53,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Башкортостан",
+    "year": 40.21,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Марий Эл",
+    "year": 40.85,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Мордовия",
+    "year": 44,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Татарстан",
+    "year": 40.54,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Удмуртская Республика",
+    "year": 40.25,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чувашская Республика",
+    "year": 41.21,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Пермский край",
+    "year": 40.35,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кировская область",
+    "year": 43.52,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Нижегородская область",
+    "year": 42.33,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Оренбургская область",
+    "year": 40.93,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Пензенская область",
+    "year": 43.62,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Самарская область",
+    "year": 42.16,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 42.82,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ульяновская область",
+    "year": 42.96,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Уральский федеральный округ",
+    "year": 39.76,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 42.39,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 40.52,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 37.6,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ханты-Мансийский авт. округ – Югра",
+    "year": 36.8,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Ямало-Ненецкий авт. округ",
+    "year": 35.61,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область без автономий",
+    "year": 39.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Челябинская область",
+    "year": 40.7,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 39.95,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 35.48,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 30.68,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Хакасия",
+    "year": 39.34,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 40.87,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Красноярский край",
+    "year": 39.54,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Иркутская область",
+    "year": 38.9,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Кемеровская область – Кузбасс",
+    "year": 40.92,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 40.52,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Омская область",
+    "year": 40.95,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Томская область",
+    "year": 40.13,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Дальневосточный федеральный округ",
+    "year": 38.89,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Бурятия",
+    "year": 36.94,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Республика Саха (Якутия)",
+    "year": 35.57,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 37.59,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 39.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Приморский край",
+    "year": 41.1,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Хабаровский край",
+    "year": 39.92,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Амурская область",
+    "year": 39.03,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Магаданская область",
+    "year": 39.74,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Сахалинская область",
+    "year": 40.96,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Еврейская автономная область",
+    "year": 39.61,
+    "month": null,
+    "day": null
+  },
+  {
+    "subject": "Чукотский автономный округ",
+    "year": 36.01,
+    "month": null,
+    "day": null
+  }
+]
