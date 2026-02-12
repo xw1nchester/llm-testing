@@ -1,0 +1,674 @@
+[
+  {
+    "subject": "Российская Федерация без учета новых субъектов (с 01.01.2023)",
+    "year": 2024,
+    "month": 3,
+    "value": 106.52,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2024,
+    "month": 3,
+    "value": 106.58,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.14,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.3,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2024,
+    "month": 3,
+    "value": 108.97,
+    "day": null
+  },
+  {
+    "subject": "Воронежская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.22,
+    "day": null
+  },
+  {
+    "subject": "Ивановская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.94,
+    "day": null
+  },
+  {
+    "subject": "Калужская область",
+    "year": 2024,
+    "month": 3,
+    "value": 107.03,
+    "day": null
+  },
+  {
+    "subject": "Костромская область",
+    "year": 2024,
+    "month": 3,
+    "value": 107.61,
+    "day": null
+  },
+  {
+    "subject": "Курская область",
+    "year": 2024,
+    "month": 3,
+    "value": 108.81,
+    "day": null
+  },
+  {
+    "subject": "Липецкая область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.96,
+    "day": null
+  },
+  {
+    "subject": "Московская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.23,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.76,
+    "day": null
+  },
+  {
+    "subject": "Рязанская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.57,
+    "day": null
+  },
+  {
+    "subject": "Смоленская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.16,
+    "day": null
+  },
+  {
+    "subject": "Тамбовская область",
+    "year": 2024,
+    "month": 3,
+    "value": 104.01,
+    "day": null
+  },
+  {
+    "subject": "Тверская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.8,
+    "day": null
+  },
+  {
+    "subject": "Тульская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.84,
+    "day": null
+  },
+  {
+    "subject": "Ярославская область",
+    "year": 2024,
+    "month": 3,
+    "value": 103.96,
+    "day": null
+  },
+  {
+    "subject": "Город Москва столица Российской Федерации город федерального значения",
+    "year": 2024,
+    "month": 3,
+    "value": 106.79,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2024,
+    "month": 3,
+    "value": 106.84,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2024,
+    "month": 3,
+    "value": 104.46,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2024,
+    "month": 3,
+    "value": 108.25,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2024,
+    "month": 3,
+    "value": 109.35,
+    "day": null
+  },
+  {
+    "subject": "Ненецкий автономный округ (Архангельская область)",
+    "year": 2024,
+    "month": 3,
+    "value": 105.72,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область (кроме Ненецкого автономного округа)",
+    "year": 2024,
+    "month": 3,
+    "value": 109.52,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2024,
+    "month": 3,
+    "value": 107.74,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2024,
+    "month": 3,
+    "value": 107.3,
+    "day": null
+  },
+  {
+    "subject": "Ленинградская область",
+    "year": 2024,
+    "month": 3,
+    "value": 104.94,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.38,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.94,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.59,
+    "day": null
+  },
+  {
+    "subject": "Город Санкт-Петербург город федерального значения",
+    "year": 2024,
+    "month": 3,
+    "value": 106.88,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ (с 29.07.2016)",
+    "year": 2024,
+    "month": 3,
+    "value": 105.52,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея (Адыгея)",
+    "year": 2024,
+    "month": 3,
+    "value": 106.82,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2024,
+    "month": 3,
+    "value": 105.38,
+    "day": null
+  },
+  {
+    "subject": "Республика Крым",
+    "year": 2024,
+    "month": 3,
+    "value": 104.12,
+    "day": null
+  },
+  {
+    "subject": "Краснодарский край",
+    "year": 2024,
+    "month": 3,
+    "value": 106.33,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.21,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.55,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2024,
+    "month": 3,
+    "value": 104.89,
+    "day": null
+  },
+  {
+    "subject": "Город федерального значения Севастополь",
+    "year": 2024,
+    "month": 3,
+    "value": 105.64,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2024,
+    "month": 3,
+    "value": 106.22,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2024,
+    "month": 3,
+    "value": 107.35,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2024,
+    "month": 3,
+    "value": 107.89,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2024,
+    "month": 3,
+    "value": 105.67,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2024,
+    "month": 3,
+    "value": 106.25,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия-Алания",
+    "year": 2024,
+    "month": 3,
+    "value": 106.35,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2024,
+    "month": 3,
+    "value": 102.19,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2024,
+    "month": 3,
+    "value": 107.22,
+    "day": null
+  },
+  {
+    "subject": "Приволжский федеральный округ",
+    "year": 2024,
+    "month": 3,
+    "value": 106.58,
+    "day": null
+  },
+  {
+    "subject": "Республика Башкортостан",
+    "year": 2024,
+    "month": 3,
+    "value": 107.27,
+    "day": null
+  },
+  {
+    "subject": "Республика Марий Эл",
+    "year": 2024,
+    "month": 3,
+    "value": 108.2,
+    "day": null
+  },
+  {
+    "subject": "Республика Мордовия",
+    "year": 2024,
+    "month": 3,
+    "value": 105.44,
+    "day": null
+  },
+  {
+    "subject": "Республика Татарстан (Татарстан)",
+    "year": 2024,
+    "month": 3,
+    "value": 105.27,
+    "day": null
+  },
+  {
+    "subject": "Удмуртская Республика",
+    "year": 2024,
+    "month": 3,
+    "value": 106.92,
+    "day": null
+  },
+  {
+    "subject": "Чувашская Республика - Чувашия",
+    "year": 2024,
+    "month": 3,
+    "value": 106.51,
+    "day": null
+  },
+  {
+    "subject": "Пермский край",
+    "year": 2024,
+    "month": 3,
+    "value": 107.94,
+    "day": null
+  },
+  {
+    "subject": "Кировская область",
+    "year": 2024,
+    "month": 3,
+    "value": 107.54,
+    "day": null
+  },
+  {
+    "subject": "Нижегородская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.8,
+    "day": null
+  },
+  {
+    "subject": "Оренбургская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106,
+    "day": null
+  },
+  {
+    "subject": "Пензенская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.64,
+    "day": null
+  },
+  {
+    "subject": "Самарская область",
+    "year": 2024,
+    "month": 3,
+    "value": 107.18,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2024,
+    "month": 3,
+    "value": 104.71,
+    "day": null
+  },
+  {
+    "subject": "Ульяновская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.8,
+    "day": null
+  },
+  {
+    "subject": "Уральский федеральный округ",
+    "year": 2024,
+    "month": 3,
+    "value": 105.14,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2024,
+    "month": 3,
+    "value": 108.87,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2024,
+    "month": 3,
+    "value": 107.04,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2024,
+    "month": 3,
+    "value": 103.58,
+    "day": null
+  },
+  {
+    "subject": "Ханты-Мансийский автономный округ - Югра (Тюменская область)",
+    "year": 2024,
+    "month": 3,
+    "value": 102.57,
+    "day": null
+  },
+  {
+    "subject": "Ямало-Ненецкий автономный округ (Тюменская область)",
+    "year": 2024,
+    "month": 3,
+    "value": 106.66,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область (кроме Ханты-Мансийского автономного округа-Югры и Ямало-Ненецкого автономного округа)",
+    "year": 2024,
+    "month": 3,
+    "value": 102.99,
+    "day": null
+  },
+  {
+    "subject": "Челябинская область",
+    "year": 2024,
+    "month": 3,
+    "value": 104.15,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ (с 03.11.2018)",
+    "year": 2024,
+    "month": 3,
+    "value": 106.58,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2024,
+    "month": 3,
+    "value": 105.48,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2024,
+    "month": 3,
+    "value": 107.52,
+    "day": null
+  },
+  {
+    "subject": "Республика Хакасия",
+    "year": 2024,
+    "month": 3,
+    "value": 107.62,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2024,
+    "month": 3,
+    "value": 107.94,
+    "day": null
+  },
+  {
+    "subject": "Красноярский край",
+    "year": 2024,
+    "month": 3,
+    "value": 105.34,
+    "day": null
+  },
+  {
+    "subject": "Иркутская область",
+    "year": 2024,
+    "month": 3,
+    "value": 108.64,
+    "day": null
+  },
+  {
+    "subject": "Кемеровская область - Кузбасс",
+    "year": 2024,
+    "month": 3,
+    "value": 105.99,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.62,
+    "day": null
+  },
+  {
+    "subject": "Омская область",
+    "year": 2024,
+    "month": 3,
+    "value": 104.51,
+    "day": null
+  },
+  {
+    "subject": "Томская область",
+    "year": 2024,
+    "month": 3,
+    "value": 106.3,
+    "day": null
+  },
+  {
+    "subject": "Дальневосточный федеральный округ (с 03.11.2018)",
+    "year": 2024,
+    "month": 3,
+    "value": 108.7,
+    "day": null
+  },
+  {
+    "subject": "Республика Бурятия",
+    "year": 2024,
+    "month": 3,
+    "value": 109.31,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2024,
+    "month": 3,
+    "value": 109.72,
+    "day": null
+  },
+  {
+    "subject": "Республика Саха (Якутия)",
+    "year": 2024,
+    "month": 3,
+    "value": 105.58,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2024,
+    "month": 3,
+    "value": 107.7,
+    "day": null
+  },
+  {
+    "subject": "Приморский край",
+    "year": 2024,
+    "month": 3,
+    "value": 110.49,
+    "day": null
+  },
+  {
+    "subject": "Хабаровский край",
+    "year": 2024,
+    "month": 3,
+    "value": 108.06,
+    "day": null
+  },
+  {
+    "subject": "Амурская область",
+    "year": 2024,
+    "month": 3,
+    "value": 108.37,
+    "day": null
+  },
+  {
+    "subject": "Магаданская область",
+    "year": 2024,
+    "month": 3,
+    "value": 105.46,
+    "day": null
+  },
+  {
+    "subject": "Сахалинская область",
+    "year": 2024,
+    "month": 3,
+    "value": 109.41,
+    "day": null
+  },
+  {
+    "subject": "Еврейская автономная область",
+    "year": 2024,
+    "month": 3,
+    "value": 109.06,
+    "day": null
+  },
+  {
+    "subject": "Чукотский автономный округ",
+    "year": 2024,
+    "month": 3,
+    "value": 102.82,
+    "day": null
+  }
+]
