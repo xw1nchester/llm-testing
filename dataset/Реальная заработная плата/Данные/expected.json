@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Тюменская область",
+        "year": 2024,
+        "month": 3,
+        "day": null,
+        "value": 110.7
+    },
+    {
+        "subject": "Тюменская область",
+        "year": 2024,
+        "month": 6,
+        "day": null,
+        "value": 107
+    },
+    {
+        "subject": "Тюменская область",
+        "year": 2024,
+        "month": 9,
+        "day": null,
+        "value": 106
+    },
+    {
+        "subject": "Тюменская область",
+        "year": 2024,
+        "month": 12,
+        "day": null,
+        "value": 107.4
+    }
+]

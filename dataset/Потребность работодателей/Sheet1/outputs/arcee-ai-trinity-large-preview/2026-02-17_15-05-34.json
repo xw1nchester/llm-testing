@@ -1,0 +1,653 @@
+[
+  {
+    "subject": "Российская Федерация",
+    "year": 2025,
+    "month": 7,
+    "value": 1852391,
+    "day": null
+  },
+  {
+    "subject": "Центральный федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 440039,
+    "day": null
+  },
+  {
+    "subject": "Белгородская область",
+    "year": 2025,
+    "month": 7,
+    "value": 26862,
+    "day": null
+  },
+  {
+    "subject": "Брянская область",
+    "year": 2025,
+    "month": 7,
+    "value": 14048,
+    "day": null
+  },
+  {
+    "subject": "Владимирская область",
+    "year": 2025,
+    "month": 7,
+    "value": 20550,
+    "day": null
+  },
+  {
+    "subject": "Воронежская область",
+    "year": 2025,
+    "month": 7,
+    "value": 19034,
+    "day": null
+  },
+  {
+    "subject": "Ивановская область",
+    "year": 2025,
+    "month": 7,
+    "value": 17938,
+    "day": null
+  },
+  {
+    "subject": "Калужская область",
+    "year": 2025,
+    "month": 7,
+    "value": 16976,
+    "day": null
+  },
+  {
+    "subject": "Костромская область",
+    "year": 2025,
+    "month": 7,
+    "value": 8464,
+    "day": null
+  },
+  {
+    "subject": "Курская область",
+    "year": 2025,
+    "month": 7,
+    "value": 9416,
+    "day": null
+  },
+  {
+    "subject": "Липецкая область",
+    "year": 2025,
+    "month": 7,
+    "value": 20135,
+    "day": null
+  },
+  {
+    "subject": "Московская область",
+    "year": 2025,
+    "month": 7,
+    "value": 97398,
+    "day": null
+  },
+  {
+    "subject": "Орловская область",
+    "year": 2025,
+    "month": 7,
+    "value": 13396,
+    "day": null
+  },
+  {
+    "subject": "Рязанская область",
+    "year": 2025,
+    "month": 7,
+    "value": 14974,
+    "day": null
+  },
+  {
+    "subject": "Смоленская область",
+    "year": 2025,
+    "month": 7,
+    "value": 18607,
+    "day": null
+  },
+  {
+    "subject": "Тамбовская область",
+    "year": 2025,
+    "month": 7,
+    "value": 12115,
+    "day": null
+  },
+  {
+    "subject": "Тверская область",
+    "year": 2025,
+    "month": 7,
+    "value": 21854,
+    "day": null
+  },
+  {
+    "subject": "Тульская область",
+    "year": 2025,
+    "month": 7,
+    "value": 33744,
+    "day": null
+  },
+  {
+    "subject": "Ярославская область",
+    "year": 2025,
+    "month": 7,
+    "value": 16160,
+    "day": null
+  },
+  {
+    "subject": "г. Москва",
+    "year": 2025,
+    "month": 7,
+    "value": 58368,
+    "day": null
+  },
+  {
+    "subject": "Северо-Западный федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 267745,
+    "day": null
+  },
+  {
+    "subject": "Республика Карелия",
+    "year": 2025,
+    "month": 7,
+    "value": 6222,
+    "day": null
+  },
+  {
+    "subject": "Республика Коми",
+    "year": 2025,
+    "month": 7,
+    "value": 10896,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область",
+    "year": 2025,
+    "month": 7,
+    "value": 8353,
+    "day": null
+  },
+  {
+    "subject": "Архангельская область без авт. округа",
+    "year": 2025,
+    "month": 7,
+    "value": 7656,
+    "day": null
+  },
+  {
+    "subject": "Вологодская область",
+    "year": 2025,
+    "month": 7,
+    "value": 17469,
+    "day": null
+  },
+  {
+    "subject": "Калининградская область",
+    "year": 2025,
+    "month": 7,
+    "value": 13475,
+    "day": null
+  },
+  {
+    "subject": "Ленинградская область",
+    "year": 2025,
+    "month": 7,
+    "value": 140594,
+    "day": null
+  },
+  {
+    "subject": "Мурманская область",
+    "year": 2025,
+    "month": 7,
+    "value": 12265,
+    "day": null
+  },
+  {
+    "subject": "Новгородская область",
+    "year": 2025,
+    "month": 7,
+    "value": 5502,
+    "day": null
+  },
+  {
+    "subject": "Псковская область",
+    "year": 2025,
+    "month": 7,
+    "value": 7846,
+    "day": null
+  },
+  {
+    "subject": "г. Санкт-Петербург",
+    "year": 2025,
+    "month": 7,
+    "value": 45123,
+    "day": null
+  },
+  {
+    "subject": "Южный федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 182088,
+    "day": null
+  },
+  {
+    "subject": "Республика Адыгея",
+    "year": 2025,
+    "month": 7,
+    "value": 4715,
+    "day": null
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "year": 2025,
+    "month": 7,
+    "value": 983,
+    "day": null
+  },
+  {
+    "subject": "Республика Крым",
+    "year": 2025,
+    "month": 7,
+    "value": 18184,
+    "day": null
+  },
+  {
+    "subject": "Краснодарский край",
+    "year": 2025,
+    "month": 7,
+    "value": 80783,
+    "day": null
+  },
+  {
+    "subject": "Астраханская область",
+    "year": 2025,
+    "month": 7,
+    "value": 6029,
+    "day": null
+  },
+  {
+    "subject": "Волгоградская область",
+    "year": 2025,
+    "month": 7,
+    "value": 23711,
+    "day": null
+  },
+  {
+    "subject": "Ростовская область",
+    "year": 2025,
+    "month": 7,
+    "value": 43012,
+    "day": null
+  },
+  {
+    "subject": "г. Севастополь",
+    "year": 2025,
+    "month": 7,
+    "value": 4671,
+    "day": null
+  },
+  {
+    "subject": "Северо-Кавказский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 44669,
+    "day": null
+  },
+  {
+    "subject": "Республика Дагестан",
+    "year": 2025,
+    "month": 7,
+    "value": 5057,
+    "day": null
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "year": 2025,
+    "month": 7,
+    "value": 279,
+    "day": null
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 7318,
+    "day": null
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 4275,
+    "day": null
+  },
+  {
+    "subject": "Республика Северная Осетия - Алания",
+    "year": 2025,
+    "month": 7,
+    "value": 1246,
+    "day": null
+  },
+  {
+    "subject": "Чеченская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 2349,
+    "day": null
+  },
+  {
+    "subject": "Ставропольский край",
+    "year": 2025,
+    "month": 7,
+    "value": 24145,
+    "day": null
+  },
+  {
+    "subject": "Приволжский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 330306,
+    "day": null
+  },
+  {
+    "subject": "Республика Башкортостан",
+    "year": 2025,
+    "month": 7,
+    "value": 35012,
+    "day": null
+  },
+  {
+    "subject": "Республика Марий Эл",
+    "year": 2025,
+    "month": 7,
+    "value": 7479,
+    "day": null
+  },
+  {
+    "subject": "Республика Мордовия",
+    "year": 2025,
+    "month": 7,
+    "value": 7708,
+    "day": null
+  },
+  {
+    "subject": "Республика Татарстан",
+    "year": 2025,
+    "month": 7,
+    "value": 53160,
+    "day": null
+  },
+  {
+    "subject": "Удмуртская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 15743,
+    "day": null
+  },
+  {
+    "subject": "Чувашская Республика",
+    "year": 2025,
+    "month": 7,
+    "value": 8923,
+    "day": null
+  },
+  {
+    "subject": "Пермский край",
+    "year": 2025,
+    "month": 7,
+    "value": 33213,
+    "day": null
+  },
+  {
+    "subject": "Кировская область",
+    "year": 2025,
+    "month": 7,
+    "value": 23819,
+    "day": null
+  },
+  {
+    "subject": "Нижегородская область",
+    "year": 2025,
+    "month": 7,
+    "value": 34142,
+    "day": null
+  },
+  {
+    "subject": "Оренбургская область",
+    "year": 2025,
+    "month": 7,
+    "value": 19394,
+    "day": null
+  },
+  {
+    "subject": "Пензенская область",
+    "year": 2025,
+    "month": 7,
+    "value": 11786,
+    "day": null
+  },
+  {
+    "subject": "Самарская область",
+    "year": 2025,
+    "month": 7,
+    "value": 43617,
+    "day": null
+  },
+  {
+    "subject": "Саратовская область",
+    "year": 2025,
+    "month": 7,
+    "value": 23249,
+    "day": null
+  },
+  {
+    "subject": "Ульяновская область",
+    "year": 2025,
+    "month": 7,
+    "value": 13061,
+    "day": null
+  },
+  {
+    "subject": "Уральский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 169134,
+    "day": null
+  },
+  {
+    "subject": "Курганская область",
+    "year": 2025,
+    "month": 7,
+    "value": 6998,
+    "day": null
+  },
+  {
+    "subject": "Свердловская область",
+    "year": 2025,
+    "month": 7,
+    "value": 52503,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область",
+    "year": 2025,
+    "month": 7,
+    "value": 72353,
+    "day": null
+  },
+  {
+    "subject": "Тюменская область без авт. округов",
+    "year": 2025,
+    "month": 7,
+    "value": 29609,
+    "day": null
+  },
+  {
+    "subject": "Челябинская область",
+    "year": 2025,
+    "month": 7,
+    "value": 37280,
+    "day": null
+  },
+  {
+    "subject": "Сибирский федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 208658,
+    "day": null
+  },
+  {
+    "subject": "Республика Алтай",
+    "year": 2025,
+    "month": 7,
+    "value": 1436,
+    "day": null
+  },
+  {
+    "subject": "Республика Тыва",
+    "year": 2025,
+    "month": 7,
+    "value": 1202,
+    "day": null
+  },
+  {
+    "subject": "Республика Хакасия",
+    "year": 2025,
+    "month": 7,
+    "value": 4812,
+    "day": null
+  },
+  {
+    "subject": "Алтайский край",
+    "year": 2025,
+    "month": 7,
+    "value": 24092,
+    "day": null
+  },
+  {
+    "subject": "Красноярский край",
+    "year": 2025,
+    "month": 7,
+    "value": 41399,
+    "day": null
+  },
+  {
+    "subject": "Иркутская область",
+    "year": 2025,
+    "month": 7,
+    "value": 29021,
+    "day": null
+  },
+  {
+    "subject": "Кемеровская область",
+    "year": 2025,
+    "month": 7,
+    "value": 31251,
+    "day": null
+  },
+  {
+    "subject": "Новосибирская область",
+    "year": 2025,
+    "month": 7,
+    "value": 36833,
+    "day": null
+  },
+  {
+    "subject": "Омская область",
+    "year": 2025,
+    "month": 7,
+    "value": 29504,
+    "day": null
+  },
+  {
+    "subject": "Томская область",
+    "year": 2025,
+    "month": 7,
+    "value": 9108,
+    "day": null
+  },
+  {
+    "subject": "Дальневосточный федеральный округ",
+    "year": 2025,
+    "month": 7,
+    "value": 209752,
+    "day": null
+  },
+  {
+    "subject": "Республика Бурятия",
+    "year": 2025,
+    "month": 7,
+    "value": 13382,
+    "day": null
+  },
+  {
+    "subject": "Республика Саха (Якутия)",
+    "year": 2025,
+    "month": 7,
+    "value": 8816,
+    "day": null
+  },
+  {
+    "subject": "Забайкальский край",
+    "year": 2025,
+    "month": 7,
+    "value": 10886,
+    "day": null
+  },
+  {
+    "subject": "Камчатский край",
+    "year": 2025,
+    "month": 7,
+    "value": 5534,
+    "day": null
+  },
+  {
+    "subject": "Приморский край",
+    "year": 2025,
+    "month": 7,
+    "value": 53563,
+    "day": null
+  },
+  {
+    "subject": "Хабаровский край",
+    "year": 2025,
+    "month": 7,
+    "value": 25236,
+    "day": null
+  },
+  {
+    "subject": "Амурская область",
+    "year": 2025,
+    "month": 7,
+    "value": 72537,
+    "day": null
+  },
+  {
+    "subject": "Магаданская область",
+    "year": 2025,
+    "month": 7,
+    "value": 2725,
+    "day": null
+  },
+  {
+    "subject": "Сахалинская область",
+    "year": 2025,
+    "month": 7,
+    "value": 9997,
+    "day": null
+  },
+  {
+    "subject": "Еврейская авт. область",
+    "year": 2025,
+    "month": 7,
+    "value": 5925,
+    "day": null
+  },
+  {
+    "subject": "Чукотский авт. округ",
+    "year": 2025,
+    "month": 7,
+    "value": 1151,
+    "day": null
+  }
+]
