@@ -29,6 +29,12 @@ ollama run mistral-small3.2:24b
 /save mistral-small3.2:24b-64k
 ```
 
+Ctrl+D - выйти из CLI модели
+
+```bash
+ollama show mistral-small3.2:24b-64k
+```
+
 ```bash
 ollama run mistral-small3.2:24b-64k
 ```
