@@ -3,3 +3,4 @@ anaconda_projects
 venv
 .env
 .DS_Store
+ollama_data
