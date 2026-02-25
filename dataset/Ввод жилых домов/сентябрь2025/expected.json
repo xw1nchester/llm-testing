@@ -1,0 +1,674 @@
+[
+    {
+        "subject": "Российская Федерация",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 76564.99
+    },
+    {
+        "subject": "Центральный федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 22630.51
+    },
+    {
+        "subject": "Белгородская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 590.81
+    },
+    {
+        "subject": "Брянская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 332.6
+    },
+    {
+        "subject": "Владимирская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 815.18
+    },
+    {
+        "subject": "Воронежская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1274.17
+    },
+    {
+        "subject": "Ивановская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 429.03
+    },
+    {
+        "subject": "Калужская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 713.01
+    },
+    {
+        "subject": "Костромская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 314.79
+    },
+    {
+        "subject": "Курская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 572.5
+    },
+    {
+        "subject": "Липецкая область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 417.93
+    },
+    {
+        "subject": "Московская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 9775.99
+    },
+    {
+        "subject": "Орловская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 273.63
+    },
+    {
+        "subject": "Рязанская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 463.35
+    },
+    {
+        "subject": "Смоленская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 371.87
+    },
+    {
+        "subject": "Тамбовская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 291.62
+    },
+    {
+        "subject": "Тверская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 709.44
+    },
+    {
+        "subject": "Тульская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 596.88
+    },
+    {
+        "subject": "Ярославская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 694.3
+    },
+    {
+        "subject": "г.Москва",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 3993.41
+    },
+    {
+        "subject": "Северо-Западный федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 7787.39
+    },
+    {
+        "subject": "Республика Карелия",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 281.76
+    },
+    {
+        "subject": "Республика Коми",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 161.37
+    },
+    {
+        "subject": "Архангельская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 335.17
+    },
+    {
+        "subject": "Ненецкий АО",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 25.66
+    },
+    {
+        "subject": "Архангельская область (кроме Ненецкого АО)",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 309.51
+    },
+    {
+        "subject": "Вологодская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 629.14
+    },
+    {
+        "subject": "Калининградская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 784.51
+    },
+    {
+        "subject": "Ленинградская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 3327.44
+    },
+    {
+        "subject": "Мурманская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 93.25
+    },
+    {
+        "subject": "Новгородская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 307.01
+    },
+    {
+        "subject": "Псковская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 211.95
+    },
+    {
+        "subject": "г.Санкт-Петербург",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1655.79
+    },
+    {
+        "subject": "Южный федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 9783.4
+    },
+    {
+        "subject": "Республика Адыгея (Адыгея)",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 477.14
+    },
+    {
+        "subject": "Республика Калмыкия",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 79.01
+    },
+    {
+        "subject": "Республика Крым",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1021.99
+    },
+    {
+        "subject": "Краснодарский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 4600.91
+    },
+    {
+        "subject": "Астраханская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 605.6
+    },
+    {
+        "subject": "Волгоградская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 880.34
+    },
+    {
+        "subject": "Ростовская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1896.24
+    },
+    {
+        "subject": "г.Севастополь",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 222.17
+    },
+    {
+        "subject": "Северо-Кавказский федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 5466.86
+    },
+    {
+        "subject": "Республика Дагестан",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1160.58
+    },
+    {
+        "subject": "Республика Ингушетия",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 129.42
+    },
+    {
+        "subject": "Кабардино-Балкарская Республика",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 459.66
+    },
+    {
+        "subject": "Карачаево-Черкесская Республика",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 251.72
+    },
+    {
+        "subject": "Республика Северная Осетия-Алания",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 371.04
+    },
+    {
+        "subject": "Чеченская Республика",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1441.21
+    },
+    {
+        "subject": "Ставропольский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1653.23
+    },
+    {
+        "subject": "Приволжский федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 13213.34
+    },
+    {
+        "subject": "Республика Башкортостан",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1665.7
+    },
+    {
+        "subject": "Республика Марий Эл",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 301.84
+    },
+    {
+        "subject": "Республика Мордовия",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 174.81
+    },
+    {
+        "subject": "Республика Татарстан (Татарстан)",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 2980.54
+    },
+    {
+        "subject": "Удмуртская Республика",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1040.34
+    },
+    {
+        "subject": "Чувашская Республика - Чувашия",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 630.76
+    },
+    {
+        "subject": "Пермский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1328.08
+    },
+    {
+        "subject": "Кировская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 389.69
+    },
+    {
+        "subject": "Нижегородская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1259.21
+    },
+    {
+        "subject": "Оренбургская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 908.66
+    },
+    {
+        "subject": "Пензенская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 555.06
+    },
+    {
+        "subject": "Самарская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1115.19
+    },
+    {
+        "subject": "Саратовская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 508.94
+    },
+    {
+        "subject": "Ульяновская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 354.52
+    },
+    {
+        "subject": "Уральский федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 6814.23
+    },
+    {
+        "subject": "Курганская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 322.78
+    },
+    {
+        "subject": "Свердловская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 2460.69
+    },
+    {
+        "subject": "Тюменская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 2545.99
+    },
+    {
+        "subject": "Ханты-Мансийский АО-Югра",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 434.76
+    },
+    {
+        "subject": "Ямало-Ненецкий АО",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 218.36
+    },
+    {
+        "subject": "Тюменская область (без автономных округов)",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1892.87
+    },
+    {
+        "subject": "Челябинская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1484.78
+    },
+    {
+        "subject": "Сибирский федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 7525.71
+    },
+    {
+        "subject": "Республика Алтай",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 294.17
+    },
+    {
+        "subject": "Республика Тыва",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 405.7
+    },
+    {
+        "subject": "Республика Хакасия",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 373.68
+    },
+    {
+        "subject": "Алтайский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 690.13
+    },
+    {
+        "subject": "Красноярский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1046.47
+    },
+    {
+        "subject": "Иркутская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1531.32
+    },
+    {
+        "subject": "Кемеровская область - Кузбасс",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 553.99
+    },
+    {
+        "subject": "Новосибирская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1736.09
+    },
+    {
+        "subject": "Омская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 681.54
+    },
+    {
+        "subject": "Томская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 212.61
+    },
+    {
+        "subject": "Дальневосточный федеральный округ",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 3343.55
+    },
+    {
+        "subject": "Республика Бурятия",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 521.96
+    },
+    {
+        "subject": "Республика Саха (Якутия)",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 599.08
+    },
+    {
+        "subject": "Забайкальский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 308.14
+    },
+    {
+        "subject": "Камчатский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 62.12
+    },
+    {
+        "subject": "Приморский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 1025.49
+    },
+    {
+        "subject": "Хабаровский край",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 410.63
+    },
+    {
+        "subject": "Амурская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 196.03
+    },
+    {
+        "subject": "Магаданская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 14.54
+    },
+    {
+        "subject": "Сахалинская область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 169.11
+    },
+    {
+        "subject": "Еврейская автономная область",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 33.66
+    },
+    {
+        "subject": "Чукотский АО",
+        "year": 2025,
+        "month": 9,
+        "day": null,
+        "value": 2.79
+    }
+]
